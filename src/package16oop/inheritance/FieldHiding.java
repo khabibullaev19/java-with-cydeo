@@ -7,7 +7,7 @@ public class FieldHiding {
         // Occurs when a "subclass" declares a variable with same name
         // as the inherited variable from its "super class"
 
-        // Subclass can use the super keyword to access the hidden
+        // Sub class can use the super keyword to access the hidden
         // fields of the super class.
 
     }

@@ -1,0 +1,3 @@
+Java is easy, Lambda is easier.
+If you learn lambda, coding will take less time.
+Lambda is the last subject in out course.

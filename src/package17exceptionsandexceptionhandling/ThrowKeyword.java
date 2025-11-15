@@ -17,7 +17,7 @@ public class ThrowKeyword {
         throw new RuntimeException("Unexpected event has occurred");
 
         // After throwing an exception, we cannot put any action, since anyway the program stops
-        System.out.println("Program Completed");
+        //System.out.println("Program Completed");
 
     }
 

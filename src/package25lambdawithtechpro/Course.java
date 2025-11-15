@@ -1,4 +1,4 @@
-package package20enumsgenericsfunctionalinterfaceslambdaexpressions;
+package package25lambdawithtechpro;
 
 public class Course {
 

@@ -1,4 +1,4 @@
-package package19maps;
+package package24mapswithtechpro;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

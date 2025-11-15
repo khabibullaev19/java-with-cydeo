@@ -1,4 +1,4 @@
-package package20enumsgenericsfunctionalinterfaceslambdaexpressions;
+package package25lambdawithtechpro;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,9 +1,8 @@
-package package20enumsgenericsfunctionalinterfaceslambdaexpressions;
+package package25lambdawithtechpro;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class Lambda07 {

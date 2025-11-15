@@ -1,4 +1,4 @@
-package package19maps;
+package package24mapswithtechpro;
 
 import java.util.Map;
 import java.util.TreeMap;

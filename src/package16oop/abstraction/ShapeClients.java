@@ -14,6 +14,11 @@ public class ShapeClients {
 
         System.out.println(cube.volume());
 
+        Shape shape1 = new Circle(9);
+        Shape shape2 = new Circle(9);
+
+        System.out.println(shape1.equals(shape2));
+
     }
 
 }

@@ -12,4 +12,14 @@ public class Circle extends Shape{
     public Circle(double radius) {
         this.radius = radius;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Circle){
+            if ( ( (Circle)obj ).radius == this.radius ) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

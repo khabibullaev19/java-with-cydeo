@@ -15,4 +15,8 @@ public class Cat extends Animal implements Playable{
     public void play() {
     }
 
+    public void meow() {
+        System.out.println("Cat " + name + " meows!");
+    }
+
 }

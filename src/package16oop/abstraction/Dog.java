@@ -15,4 +15,8 @@ public class Dog extends Animal implements Playable{
     public void play() {
     }
 
+    public void bark() {
+        System.out.println("Dog " + name + " barks!");
+    }
+
 }
